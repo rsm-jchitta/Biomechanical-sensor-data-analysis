@@ -24,11 +24,13 @@ Logistic Regression
 Decision Tree
 Random Forest
 XGBoost
+
 **Key Findings**
 
 Comparative analysis of model performance, highlighting the most effective techniques for motion prediction based on sensor data.
 Insights into the characteristics of biomechanical movements and how they are captured by sensor data.
 How to Run the Analysis
+
 **Prerequisites**
 
 Python 3.x
